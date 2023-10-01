@@ -1,0 +1,8 @@
+apache-airflow
+pandas
+matplotlib
+numpy
+scikit-learn
+seaborn
+tensorflow
+keras
